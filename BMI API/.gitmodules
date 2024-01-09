@@ -1,0 +1,3 @@
+[submodule "bmi API"]
+	path = bmi API
+	url = https://github.com/rcharles1/bmiAPI.git
